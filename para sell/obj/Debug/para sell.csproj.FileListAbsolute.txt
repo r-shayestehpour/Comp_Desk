@@ -1,0 +1,23 @@
+D:\Robotic\para sell\para sell\bin\Debug\para sell.exe
+D:\Robotic\para sell\para sell\bin\Debug\para sell.pdb
+D:\Robotic\para sell\para sell\obj\Debug\ResolveAssemblyReference.cache
+D:\Robotic\para sell\para sell\obj\Debug\para_sell.Properties.Resources.resources
+D:\Robotic\para sell\para sell\obj\Debug\para sell.csproj.GenerateResource.Cache
+D:\Robotic\para sell\para sell\obj\Debug\para sell.exe
+D:\Robotic\para sell\para sell\obj\Debug\para sell.pdb
+D:\Robotic\para sell\para sell\obj\Debug\para_sell.Form1.resources
+D:\programming\Robotic\para sell\para sell\obj\Debug\para sell.exe
+D:\programming\Robotic\para sell\para sell\obj\Debug\para sell.pdb
+D:\programming\Robotic\para sell\para sell\obj\Debug\ResolveAssemblyReference.cache
+D:\programming\Robotic\para sell\para sell\obj\Debug\para_sell.Form1.resources
+D:\programming\Robotic\para sell\para sell\obj\Debug\para_sell.Properties.Resources.resources
+D:\programming\Robotic\para sell\para sell\obj\Debug\para sell.csproj.GenerateResource.Cache
+D:\para sell\para sell\obj\Debug\para sell.exe
+D:\programming\para sell\para sell\obj\Debug\para sell.exe
+D:\programming\para sell\para sell\bin\Debug\para sell.exe
+D:\programming\para sell\para sell\bin\Debug\para sell.pdb
+D:\programming\para sell\para sell\obj\Debug\ResolveAssemblyReference.cache
+D:\programming\para sell\para sell\obj\Debug\para_sell.Form1.resources
+D:\programming\para sell\para sell\obj\Debug\para_sell.Properties.Resources.resources
+D:\programming\para sell\para sell\obj\Debug\para sell.csproj.GenerateResource.Cache
+D:\programming\para sell\para sell\obj\Debug\para sell.pdb
